@@ -3,3 +3,7 @@
 For more information go to http://eigen.tuxfamily.org/ or https://libeigen.gitlab.io/docs/.
 
 For ***pull request***, ***bug reports***, and ***feature requests***, go to https://gitlab.com/libeigen/eigen.
+
+---
+
+This repo is a mirror of the official Eigen repository (https://gitlab.com/libeigen/eigen).
